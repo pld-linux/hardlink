@@ -1,3 +1,5 @@
+# NOTE
+# - soon to be merged to util-linux: https://github.com/karelzak/util-linux/pull/706
 Summary:	Create a tree of hardlinks
 Name:		hardlink
 Version:	1.0
